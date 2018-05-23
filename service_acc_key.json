@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "denai-201514",
+  "private_key_id": "8b2925c83b2c9aa4f6b02304fd306133065c65c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaaWEzjoUC9Kjp\nudUsj6R7BvBZqZ66yUjcri3rvi1bt+H9F79JNoD04+QPksoPRFXdi3GWrtWnyuuA\ntml13z8BRaTh4hAooa1S+9X9YCpsmLqJ/vTWpY5/Xv4QwcCgsjYc61a8uQNGTihu\nO2bwBDTt9aZyrYq7gg1WC5znvhVPeRnuSwM+TePvJhaXWk5+YA6v/GDr9kHe3Tbt\nogIt/CiGEvOkVA2RvzUS4SXUoeJPzLHcjuv8g9mDr7QMd7wvblK0YxUC547rRaZK\nK3+spBx03EYa2ZcUvqGYUk+eRNXf2ip7UjBVKBRqaT7DjKnWktriKRKSQTVX9Py9\ntmygesQ7AgMBAAECggEAPtSTzsYQA4KoWNxJs9D6qx2a5OBDtk4TNNCyix+hYsIq\nM6myMHiKbmhkggpjMDMjVGE54vQWqHdaeiN/gRYgxNfpD8X9igLAnp+ttn8ElUr2\nVp5OhrUHoiKMifuC03eQ047r28yJYZ84SEW0XhWHuHCzWkgMIdbOyVL75zqqXLrc\netvD00NCGQ4iUKhk58KXDhuAeObG82Tx5L2+iLHoLnZzmkp7Uoz/517DoZo6c+mt\nu2SsM/vsyIC6V/J3h5CQeCiD8SYvRdCqO02EgUJvhYrbJt75bLMj2fDtc615ep7i\n9khZHTV9G/1UbVLic4/4kjTiqBcUrwnYNHD89LkwUQKBgQD5Vamgm4MmU5+V7gC+\ni5IEQqlDKJmytjT91Qh+qUfg+uyqoFgapJ2GTSbyfsBKSUUcfQDd6PbgBe0G+9y3\n/C7qb6OJQ+7BE5SlhOdYzag5xI5Yw/mf/lMCQew1kptsb+gd7b78gXOSgVLgYvWF\nhBUtmN530vsKxBqbY1t17EP1owKBgQDgQBf8fwm6P9M0MFqIRj1OtH8y1PTK4DPO\n/v69US40ZHt2uaA3WWB95cAiaVB2qR6jYrMd6fGVJvHS0XQQ7EwoQxr719G7eHNz\nL3uHT24nUOGnhWvLiAolj+9Zrk8VfgIT3qLJE7GLAHNPOmcadT8sEY7d3gGfuEAf\nWzw+QRdwiQKBgQDLMZ2AjtvNwz598C1ZG+NOZ4kLey3ur4D2D8PRfWFfnv56exvx\n8o+RoJSJ8PQCVj3lXpXzQuTWYt3s4BrbMcCGO57Zwav0W2G7llj3TPq4wU+EVYm8\ncoXxhAndCvJw564RnewUWeb20T/aL6uJOMANndRHcIA4IOLSGaGys24a4wKBgGUX\nf7ir7E6yBxw30Bgu0eRxKgZYSiJLABAIk/30YsfrpFzZQYiyGfWnZP4eS8+yXcV5\n8RVDKUz7yXgoRBJ887gSyE9P85R3sFP0y9Mr05SVuaQzWWzfXvOf916OXchqjbU3\nYFsVLaxj/5dv1Jrw0BGluKn8Mu81uHJqRrYp0c9BAoGAPmzkU1WntpvzWkTSh5TM\neluzMnqKjSNR8ibRzWb11t4i3RrUpnKSU0CPEE5GqlP5wKphTvTGCJWxwCIm9rB0\n1q0ETKj2yTX3g7UrwAlZGtbVXawV3bXW9Vc9dX0v7tfJfrpvNBh3YIC34EANjZ87\nm7mYWoeRjtaOYnFggleCkOc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "denoise-adversarial-images@denai-201514.iam.gserviceaccount.com",
+  "client_id": "109212433792068344588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/denoise-adversarial-images%40denai-201514.iam.gserviceaccount.com"
+}
